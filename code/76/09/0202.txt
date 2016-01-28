@@ -4,15 +4,21 @@
 
 (a)  "Emergency" means a situation in which property or human life is in jeopardy and the prompt summoning of aid is essential to the preservation of human life or property.
 
-(b)  "Party line" means a subscriber's line or telephone circuit consisting of two or more main telephone stations connected therewith, each station with a distinctive ring or telephone number.
+(b)  "Party line" means a subscriber's line or telephone circuit consisting of two or more main telephone stations that are connected , and each station has a distinctive ring or telephone number.
 
-(2) A person is guilty of emergency reporting abuse if he:
+(2) A person is guilty of emergency reporting abuse if the person:
 
 (a)  intentionally refuses to yield or surrender the use of a party line or a public pay telephone to another person upon being informed that the telephone is needed to report a fire or summon police, medical, or other aid in case of emergency, unless the telephone is likewise being used for an emergency call;
 
-(b)  asks for or requests the use of a party line or a public pay telephone on the pretext that an emergency exists, knowing that no emergency exists; or
+(b)  asks for or requests the use of a party line or a public pay telephone on the pretext that an emergency exists, knowing that no emergency exists; 
 
-(c)  reports an emergency or causes an emergency to be reported to any public, private, or volunteer entity whose purpose is to respond to fire, police, or medical emergencies, when the actor knows the reported emergency does not exist.
+(c)  reports an emergency or causes an emergency to be reported to any public, private, or volunteer entity whose purpose is to respond to fire, police, or medical emergencies, when the person knows the reported emergency does not exist; or
+
+(d)  makes a false report to an emergency response service, including a law enforcement dispatcher or a 911 emergency response service, or intentionally aids, abets, or causes a third party to make the false report, and the false report:
+
+(i)  describes an ongoing emergency situation that as reported is causing or poses an imminent threat of causing serious bodily injury, serious physical injury, or death; and
+
+(ii)  states that the emergency situation is occurring at a specified location.
 
 (3) (a)  A violation of Subsection (2)(a) or (b) is a class C misdemeanor.
 
@@ -20,9 +26,16 @@
 
 (c) A violation of Subsection (2)(c) is a second degree felony if the report is regarding a weapon of mass destruction, as defined in Section 76-10-401.
 
-(4) In addition to any other penalty authorized by law, a court shall order any person convicted of a violation of this section to reimburse any federal, state, or local unit of government, or any private business, organization, individual, or entity for all expenses and losses incurred in responding to the violation, unless the court states on the record the reasons why the reimbursement would be inappropriate.
+(d)  A violation of Subsection (2)(d):
 
+(i)  is a third degree felony; or
 
+(ii)  is a second degree felony if the emergency responders while acting in response to the report cause physical injury to any resident or other person at the reported location.
 
-Amended by Chapter 166, 2002 General Session
+(4) (a)  In addition to any other penalty authorized by law, a court shall order any person convicted of a violation of this section to reimburse:
 
+(i)  any federal, state, or local unit of government, or any private business, organization, individual, or entity for all expenses and losses incurred in responding to the violation[, unless]; and
+
+(ii)  any person injured under Subsection (3)(d)(ii) for costs for the treatment of any injury, including treatment for psychological injuries caused by the offense.
+
+(b)  The court may require that the defendant pay less than the reimbursements required under Subsection (4)(a) only if the court states on the record the reasons why the reimbursement would be inappropriate.
