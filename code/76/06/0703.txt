@@ -24,7 +24,7 @@
 
 (iv)  in gaining access the person breaches or breaks through a security system.
 
-(2)  (a) Except as provided in Subsection (2)(b), a person who intentionally or knowingly and without authorization gains or attempts to gain access to a computer, computer network, computer property, or computer system under circumstances not otherwise constituting an offense under this section is guilty of a class B misdemeanor.
+(2) (a)  Except as provided in Subsection (2)(b), a person who intentionally or knowingly and without authorization gains or attempts to gain access to a computer, computer network, computer property, or computer system under circumstances not otherwise constituting an offense under this section is guilty of a class B misdemeanor.
 
 (b)  Notwithstanding Subsection (2)(a), a retailer that uses an electronic product identification or tracking system, or other technology to identify, track, or price goods is not guilty of a violation of Subsection (2)(a) if the equipment designed to read the electronic product identification or tracking system data and used by the retailer to identify, track, or price goods is located within the retailer's location.
 
